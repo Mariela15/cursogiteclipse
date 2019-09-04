@@ -11,4 +11,4 @@ cambio para fastfortward
 
 
 
-subir al repositorio
+subir al repositorio servidor
