@@ -12,3 +12,8 @@ cambio para fastfortward
 
 
 subir al repositorio servidor
+
+
+
+
+cambios sin push
